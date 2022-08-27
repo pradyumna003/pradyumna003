@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pradyumna_sushanth
+- 📫 How to reach me on insta @pradyumna_sushanth
 
 <!---
 pradyumna003/pradyumna003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
